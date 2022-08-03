@@ -1,32 +1,26 @@
-Welcome to GitHub Pages
+# Phosphoproteomics - From sampling to data analysis
+## Introduction
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+Phosphoproteomics is a branch of proteomics that identifies, catalogs, and characterizes proteins containing a phosphate group as a posttranslational modification (PTM). Hence, the modification of proteins with removal or addition of one or multiple phosphate groups is highly dynamic. In plants, protein phosphorylation regulates many plant processes including plant growth, development, immunity and is affected by multiple enviromental stimulus. 
 
-Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
-Markdown
+This course takes the audience through sampling process, preparation, basics of Mass Spectrometry and posterior Data Analysis. It aims to attendees with multiple research backgrounds and different levels of expertise in the field. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The course was developed by the lab of Functional Phosphoproteomics lab, at Plant Systems Biology (VIB).
 
-Syntax highlighted code block
+## Course Program
 
-# Header 1
-## Header 2
-### Header 3
+The course is aimed to last 3 days with two sections per day. More detailed info available in [Course Program](https://cassio-lima.github.io/Phosphoproteomics_course_Jaboticabal-2022/course_program))
 
-- Bulleted
-- List
+## Getting Started
 
-1. Numbered
-2. List
+Every day of training we will provide slides for you to follow and basic quiz. Additionally, course was designed to be interactive with a *Hands-on* section starting from **Day 2**
 
-**Bold** and _Italic_ and `Code` text
+### Course Material 
 
-[Link](url) and ![Image](src)
+- Day 1 (Link)
+- Day 2 (Link)
+- Day 3 (Link)
 
-For more details see Basic writing and formatting syntax.
-Jekyll Themes
+## Contributing & QA
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
-Support or Contact
-
-Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
+Found a typo? Want to ask us anything? 
