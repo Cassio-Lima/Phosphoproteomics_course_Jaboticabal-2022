@@ -1,1 +1,5 @@
-theme: jekyll-theme-dinky
+title: Data wrangling in Python
+logo:
+description: FLAMES - Flanders’ Training Network for Methodology and Statistics
+show_downloads: true
+theme: jekyll-theme-minimal
