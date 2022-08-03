@@ -21,6 +21,19 @@ Every day of training we will provide slides for you to follow and basic quiz. A
 - Day 2 (Link)
 - Day 3 (Link)
 
+### Programs
+
+Currently, a pletora of programs are available for analysis of proteomics data analysis; however, MaxQuant is one of the most popular because it is easy to use, offers functionalities for nearly all kinds of proteomics data analysis challenges and it's free. The software is maintaned by the Max Planck Institute of Biochemistry (MPI) and receives updates regularly. 
+
+You can download MaxQuant [here](https://www.maxquant.org/maxquant/)
+
+Additionally, the Perseus program handles most output files from MaxQuant and assists the analysis.
+
+You can download Perseus [here](https://www.maxquant.org/perseus/)
+
+Both programs with their graphical user interfaces (GUI) are only currently available for Windows Operating Systems, althougth MaxQuant can run in UNIX enviroment with assistance of Mono. 
+
+
 ## Contributing & QA
 
 Found a typo? Want to ask us anything? 
