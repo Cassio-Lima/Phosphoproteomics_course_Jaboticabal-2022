@@ -40,6 +40,9 @@ You can download Perseus [here](https://www.maxquant.org/perseus/)
 
 Both programs with their graphical user interfaces (GUI) are only currently available for Windows Operating Systems, althougth MaxQuant can run in UNIX enviroment with assistance of Mono. 
 
+## List of confirmed attendees 
+
+A list of all confirmed attendees and their emails for contact can be found [here]https://cassio-lima.github.io/Phosphoproteomics_course_Jaboticabal-2022/Confirmed_attendees
 
 ## Contributing & QA
 
