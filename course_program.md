@@ -40,4 +40,3 @@ Session #2: How to use a phosphoproteome dataset to answer a biological question
 - Case study
 - Discussions
 
-## In revision

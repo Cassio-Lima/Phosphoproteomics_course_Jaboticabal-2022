@@ -1,11 +1,11 @@
 # Phosphoproteomics - From sampling to data analysis
 ## Introduction
 
-Phosphoproteomics studies are a branch of proteomics that aim to identify, catalogue, and characterize proteins containing a phosphate group as a posttranslational modification (PTM). Hence, the modification of proteins with removal or addition of one or multiple phosphate groups is highly dynamic. In plants, protein phosphorylation regulates many biological processes including plant growth, development, immunity and is affected by multiple enviromental stimulus. 
+Phosphoproteomics is a branch of proteomics that aim to identify, catalogue, and characterize proteins containing a phosphate group as a posttranslational modification (PTM). Hence, the modification of proteins with removal or addition of one or multiple phosphate groups is highly dynamic. In plants, protein phosphorylation regulates many biological processes including plant growth, development, immunity and is affected by multiple enviromental stimulus. 
 
 This course takes the audience through sampling process, preparation, data acquisition and data analysis. It's target audience is researchers with various research backgrounds and different levels of expertise in the field. 
 
-The entire content of the course was developed by the lab of Functional Phosphoproteomics lab, at Plant Systems Biology (VIB) and makes use of software and methods already published by other labs.
+TThe entire content of the course was developed by the Functional Phosphoproteomics lab at the VIB-UGent Center for [Plant Systems Biology](https://www.psb.ugent.be/index.php/groups/functional_phosphoproteomics) and makes use of software and methods already published by other labs.
 
 ## Course Program
 
@@ -13,7 +13,7 @@ The course lasts 3 days with two sections per day. More detailed info available 
 
 ## Accomodation and Restaurants
 
-[Here](https://github.com/Cassio-Lima/Phosphoproteomics_course_Jaboticabal-2022/blob/47c97fd109a46f65b936e92c3ca3ce03eea6429b/Info_files/Alimenta%C3%A7%C3%A3o-estadia-P-course.pdf) you will find a list for potential accomodation and restaurants in Jaboticabal 
+[Here](https://cassio-lima.github.io/Phosphoproteomics_course_Jaboticabal-2022/Estadia_alimentacao) you will find a list for potential accomodation and restaurants in Jaboticabal 
 
 
 ## Getting Started
@@ -28,7 +28,7 @@ Every day of training we will provide slides together with extra course material
 
 ### Software
 
-Currently, a pletora of programs are available for analysis of proteomics data analysis; however, MaxQuant is one of the most popular because it is easy to use, offers functionalities for nearly all kinds of proteomics data analysis challenges and it's free. The software is maintaned by the Max Planck Institute of Biochemistry (MPI) and receives updates regularly. 
+Currently, a pletora of programs are available for analysis of proteomics data analysis. However, MaxQuant is one of the most popular because it is easy to use, offers functionalities for nearly all kinds of proteomics data analysis challenges and it's free. The software is maintaned by the Max Planck Institute of Biochemistry (MPI) and receives updates regularly. 
 
 You can download MaxQuant [here](https://www.maxquant.org/maxquant/)
 
@@ -46,6 +46,16 @@ Both programs with their graphical user interfaces (GUI) are only currently avai
 
 A list of all confirmed attendees can be found [here](https://cassio-lima.github.io/Phosphoproteomics_course_Jaboticabal-2022/Confirmed_attendees)
 
-## Contributing & QA
+### Course Instructors
 
-Found a typo? Want to ask us anything? 
+  -  Lam Dai Vu; [Lam.Vu@psb.vib-ugent.be](Lam.Vu@psb.vib-ugent.be); VIB-UGent
+  - Cássio Flavio Fonseca de Lima: [cafon@psb.vib-ugent.be](cafon@psb.vib-ugent.be); VIB-UGent
+  - Ive De Smet; [Ive.DeSmet@psb.vib-ugent.be](Ive.DeSmet@psb.vib-ugent.be); VIB-UGent
+
+## Q&A
+
+Do you want to ask us anything?
+
+You can directly reach out to us, or to Dr. Tiago Santana Balbuena; [tiago.balbuena@unesp.br](tiago.balbuena@unesp.br); UNESP.
+
+
