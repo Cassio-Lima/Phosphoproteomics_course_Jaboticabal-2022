@@ -44,7 +44,7 @@ Both programs with their graphical user interfaces (GUI) are only currently avai
 
 ## List of confirmed attendees 
 
-A list of all confirmed attendees and their emails for contact can be found [here](https://cassio-lima.github.io/Phosphoproteomics_course_Jaboticabal-2022/Confirmed_attendees)
+A list of all confirmed attendees can be found [here](https://cassio-lima.github.io/Phosphoproteomics_course_Jaboticabal-2022/Confirmed_attendees)
 
 ## Contributing & QA
 
