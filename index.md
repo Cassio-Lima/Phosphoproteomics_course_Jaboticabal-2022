@@ -40,6 +40,8 @@ Additionally, the Perseus program handles most output files from MaxQuant and as
 
 You can download Perseus [here](https://www.maxquant.org/perseus/)
 
+> Tyanova, S., Temu, T., Sinitcyn, P. et al. The Perseus computational platform for comprehensive analysis of (prote)omics data. Nat Methods 13, 731–740 (2016). https://doi.org/10.1038/nmeth.3901
+
 Both programs with their graphical user interfaces (GUI) are only currently available for Windows Operating Systems, althougth MaxQuant can run in UNIX enviroment with assistance of Mono. 
 
 ## List of confirmed attendees 
