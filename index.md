@@ -11,6 +11,10 @@ The course was developed by the lab of Functional Phosphoproteomics lab, at Plan
 
 The course is aimed to last 3 days with two sections per day. More detailed info available in [Course Program](https://cassio-lima.github.io/Phosphoproteomics_course_Jaboticabal-2022/course_program))
 
+## Accomodation and Restaurants
+
+[Here](https://github.com/Cassio-Lima/Phosphoproteomics_course_Jaboticabal-2022/blob/main/Alimentac%CC%A7a%CC%83o-estadia-P-course.pdf) you will find a list for potential accomodation and restaurants in Jaboticabal 
+
 ## Getting Started
 
 Every day of training we will provide slides for you to follow and basic quiz. Additionally, course was designed to be interactive with a *Hands-on* section starting from **Day 2**
