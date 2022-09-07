@@ -15,6 +15,9 @@ The course is aimed to last 3 days with two sections per day. More detailed info
 
 [Here](https://github.com/Cassio-Lima/Phosphoproteomics_course_Jaboticabal-2022/blob/47c97fd109a46f65b936e92c3ca3ce03eea6429b/Info_files/Alimenta%C3%A7%C3%A3o-estadia-P-course.pdf) you will find a list for potential accomodation and restaurants in Jaboticabal 
 
+
+<object data="https://github.com/Cassio-Lima/Phosphoproteomics_course_Jaboticabal-2022/blob/47c97fd109a46f65b936e92c3ca3ce03eea6429b/Info_files/Alimenta%C3%A7%C3%A3o-estadia-P-course.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 ## Getting Started
 
 Every day of training we will provide slides for you to follow and basic quiz. Additionally, course was designed to be interactive with a *Hands-on* section starting from **Day 2**
