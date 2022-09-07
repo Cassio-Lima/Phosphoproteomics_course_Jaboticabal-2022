@@ -9,7 +9,7 @@ TThe entire content of the course was developed by the Functional Phosphoproteom
 
 ## Course Program
 
-The course lasts 3 days with two sections per day. More detailed info available in [Course Program](https://cassio-lima.github.io/Phosphoproteomics_course_Jaboticabal-2022/course_program))
+The course lasts 3 days with two sections per day. More detailed info available in [Course Program](https://cassio-lima.github.io/Phosphoproteomics_course_Jaboticabal-2022/course_program)
 
 ## Accomodation and Restaurants
 
