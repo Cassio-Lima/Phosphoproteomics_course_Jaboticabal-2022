@@ -34,6 +34,8 @@ Currently, a pletora of programs are available for analysis of proteomics data a
 
 You can download MaxQuant [here](https://www.maxquant.org/maxquant/)
 
+> Cox, J., Mann, M. MaxQuant enables high peptide identification rates, individualized p.p.b.-range mass accuracies and proteome-wide protein quantification. Nat Biotechnol 26, 1367–1372 (2008). https://doi.org/10.1038/nbt.1511
+
 Additionally, the Perseus program handles most output files from MaxQuant and assists the analysis.
 
 You can download Perseus [here](https://www.maxquant.org/perseus/)
