@@ -28,19 +28,7 @@ The course was designed to be interactive with a *Hands-on* section starting fro
 
 ### Software
 
-Currently, a pletora of programs are available for analysis of proteomics data analysis. However, MaxQuant is one of the most popular because it is easy to use, offers functionalities for nearly all kinds of proteomics data analysis challenges and it's free. The software is maintaned by the Max Planck Institute of Biochemistry (MPI) and receives updates regularly. 
-
-You can download MaxQuant [here](https://www.maxquant.org/maxquant/)
-
-> Cox, J., Mann, M. MaxQuant enables high peptide identification rates, individualized p.p.b.-range mass accuracies and proteome-wide protein quantification. Nat Biotechnol 26, 1367–1372 (2008). https://doi.org/10.1038/nbt.1511
-
-Additionally, the Perseus program handles most output files from MaxQuant and assists the analysis.
-
-You can download Perseus [here](https://www.maxquant.org/perseus/)
-
-> Tyanova, S., Temu, T., Sinitcyn, P. et al. The Perseus computational platform for comprehensive analysis of (prote)omics data. Nat Methods 13, 731–740 (2016). https://doi.org/10.1038/nmeth.3901
-
-Both programs with their graphical user interfaces (GUI) are only currently available for Windows Operating Systems, althougth MaxQuant can run in UNIX enviroment with assistance of Mono/DotNet. 
+During the course you will make use of multiple third part software, tools and databases. The link and instructions to download are described [here](https://cassio-lima.github.io/Phosphoproteomics_course_Jaboticabal-2022/Links). We kindly ask you to download, install and make an account for them **in advance**. 
 
 ## List of confirmed attendees 
 
