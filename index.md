@@ -18,7 +18,7 @@ The course lasts 3 days with two sections per day. More detailed info available 
 
 ## Getting Started
 
-Every day of training we will provide slides together with extra course materials if needed. Additionally, the course was designed to be interactive with a *Hands-on* section starting from **Day 2**
+The course was designed to be interactive with a *Hands-on* section starting from **Day 2**
 
 ### Course Material 
 
