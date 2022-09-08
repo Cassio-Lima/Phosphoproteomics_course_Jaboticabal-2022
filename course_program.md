@@ -8,12 +8,20 @@ Session #1: Mass spectrometry basics
 - Types of instrumentation and data collection
 - Peptide and protein identification
 
-Session #2: Mass spectrometry-based phosphoproteomics
+Session #2: Quantitative proteomics
+
+- Label-based quantification
+- Label-free quanitification
+- Relative protein quantification
+
+
+Session #3: Mass spectrometry-based phosphoproteomics
 
 - Sample preparation
 - Strategies for data acquisition 
 - Advances in the analysis of post-translational modifications
 	
+
 ## *Day 2*
 
 
