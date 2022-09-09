@@ -1,7 +1,7 @@
 # Phosphoproteomics - From sampling to data analysis
 ## Introduction
 
-Phosphoproteomics is a branch of proteomics that aim to identify, catalogue, and characterize proteins containing a phosphate group as a posttranslational modification (PTM). Hence, the modification of proteins with removal or addition of one or multiple phosphate groups is highly dynamic. In plants, protein phosphorylation regulates many biological processes including plant growth, development, immunity and is affected by multiple enviromental stimulus. 
+Phosphoproteomics is a branch of proteomics that aims to identify, catalogue, and characterize proteins containing a phosphate group as a posttranslational modification (PTM). Hence, the modification of proteins with removal or addition of one or multiple phosphate groups is highly dynamic. In plants, protein phosphorylation regulates many biological processes including plant growth, development, immunity and is affected by multiple enviromental stimulus. 
 
 This course takes the audience through sampling process, preparation, data acquisition and data analysis. It's target audience is researchers with various research backgrounds and different levels of expertise in the field. 
 
@@ -20,7 +20,8 @@ The course lasts 3 days with two sections per day. More detailed info available 
 
 The course was designed to be interactive with a *Hands-on* section starting from **Day 2**
 
-### Course Material 
+### Course Material
+
 
 All course material necessary is available [here](https://floppy.psb.ugent.be/index.php/s/l8LuLnF1ck4wUtN). Please download the content for Day 2 and Day 3 in advance and test the programs (e.g. MaxQuant/Perseus requires installation of DotNet 3.1 - We are providing the executable along with other files for Day 2)
 
