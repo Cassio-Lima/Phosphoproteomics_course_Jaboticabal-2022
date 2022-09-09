@@ -22,9 +22,7 @@ The course was designed to be interactive with a *Hands-on* section starting fro
 
 ### Course Material 
 
-- Day 1 (Link)
-- Day 2 (Link)
-- Day 3 (Link)
+- All course material necessary is available [here](https://floppy.psb.ugent.be/index.php/s/l8LuLnF1ck4wUtN). Please download the content for Day 2 and Day 3 in advance and test the programs (e.g. MaxQuant/Perseus requires installation of DotNet 3.1 - We are providing the executable along with other files for Day 2)
 
 ### Software
 
