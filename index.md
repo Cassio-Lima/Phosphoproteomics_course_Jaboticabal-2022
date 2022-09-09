@@ -22,7 +22,7 @@ The course was designed to be interactive with a *Hands-on* section starting fro
 
 ### Course Material 
 
-- All course material necessary is available [here](https://floppy.psb.ugent.be/index.php/s/l8LuLnF1ck4wUtN). Please download the content for Day 2 and Day 3 in advance and test the programs (e.g. MaxQuant/Perseus requires installation of DotNet 3.1 - We are providing the executable along with other files for Day 2)
+All course material necessary is available [here](https://floppy.psb.ugent.be/index.php/s/l8LuLnF1ck4wUtN). Please download the content for Day 2 and Day 3 in advance and test the programs (e.g. MaxQuant/Perseus requires installation of DotNet 3.1 - We are providing the executable along with other files for Day 2)
 
 ### Software
 
@@ -43,5 +43,4 @@ A list of all confirmed attendees can be found [here](https://cassio-lima.github
 Do you want to ask us anything?
 
 You can directly reach out to us, or to Dr. Tiago Santana Balbuena; [tiago.balbuena@unesp.br](tiago.balbuena@unesp.br); UNESP.
-
 
