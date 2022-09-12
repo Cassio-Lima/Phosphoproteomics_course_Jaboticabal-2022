@@ -47,5 +47,6 @@ You can directly reach out to us, or to Dr. Tiago Santana Balbuena; [tiago.balbu
 
 ## Founding
 
-![FWO](/images/fwo.jpg){:height="105px" width="185px"}
+![FWO](/images/fwo.jpg){:height="105px" width="185px"}![FAPESP](/images/fapesp.jpg){:height="71px" width="153px"}
+
 
