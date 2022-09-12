@@ -45,7 +45,7 @@ Do you want to ask us anything?
 
 You can directly reach out to us, or to Dr. Tiago Santana Balbuena; [tiago.balbuena@unesp.br](tiago.balbuena@unesp.br); UNESP.
 
-## Funding
+## Funding agencies
 
 ![FWO](/images/fwo.jpg){:height="105px" width="185px"}![FAPESP](/images/fapesp.jpg){:height="142px" width="306px"}
 
