@@ -47,6 +47,5 @@ You can directly reach out to us, or to Dr. Tiago Santana Balbuena; [tiago.balbu
 
 ## Founding
 
-![Foo](https://soc.kuleuven.be/lines/sustainable-futures-research-group/images/fwo-logo-researchfondationflanders-kleur.jpg/image | width=10)
-
+![FWO](/images/fwo.jpg)
 
