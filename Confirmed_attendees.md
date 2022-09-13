@@ -22,7 +22,9 @@
 16. Marina de Lima Nogueira; Universidade Estadual Paulista
 17. Elielson Rodrigo Silveira; Universidade de São Paulo
 18. Vanessa Eline Sylvestrin; Universidade Estadual de Campinas
-
+19. Afonso Pinto Fançony; Universidade Estadual Paulista
+20. Carol Cristina Vagula de Almeida Silva; Universidade Estadual Paulista
+21. Raysse Santucci Scapol; Universidade Estadual Paulista
 ---
 
 - Lam Dai Vu; [Lam.Vu@psb.vib-ugent.be](mailto:Lam.Vu@psb.vib-ugent.be); VIB-UGent
